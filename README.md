@@ -1,4 +1,4 @@
-# Comparison_of_ML_algorithm_for_diabetes_diagnosis
+# Comparison_of_ML_algorithms_for_diabetes_diagnosis
 
 ### Overview
 
