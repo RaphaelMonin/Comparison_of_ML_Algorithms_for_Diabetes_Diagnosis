@@ -12,7 +12,9 @@ Comparison of several ML algorithms for diabetes diagnosis.
 ### Results
 
 The KNN model reaches 74% of accuracy.
+
 The Gaussian Naive Bayes model reaches an accuracy of 78% on the test set.
+
 Both SVM model with a polynomial kernel and with a radial basis function kernel reach 79% of accuracy on the test set.
 
 ### Dataset
